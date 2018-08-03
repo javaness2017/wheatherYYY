@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wheather</string>
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="channel_name">wheather Service</string>
+    <string name="channel_description">Wheather</string>
+
+</resources>
